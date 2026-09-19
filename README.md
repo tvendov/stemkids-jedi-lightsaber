@@ -1,2 +1,5 @@
-# stemkids-jedi-lightsaber
-STEMKIDS project ccbcbfdc-133b-49cf-a8fc-49116ed8f06c / a760d005-39ef-4d21-87fd-88e75feeefe5
+# Меч на джедай
+
+Адресируеми RGB светодиоди, сензор за движение, DAC и аудиоусилвател. Светлинни и звукови ефекти с локално управление.
+
+[Проект, схеми, код и Wiki](projects/ccbcbfdc-133b-49cf-a8fc-49116ed8f06c/README.md)
